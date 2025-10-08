@@ -1,5 +1,4 @@
 #github automatic bot 
-#How can I use the github bot?
-
+#this is the bot for automatic commit of the github
 requests
 pyyaml
