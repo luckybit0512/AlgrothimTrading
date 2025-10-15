@@ -1,4 +1,3 @@
 #github automatic bot 
-#this is the bot for automatic commit of the github
 requests
 pyyaml
