@@ -1,3 +1,4 @@
+#this is the successful algorithim trading thinggit add .
 
 requests
 pyyaml
