@@ -1,4 +1,4 @@
-#this is the successful algorithim trading thinggit add .
+### this is the bot file
 
 requests
 pyyaml
