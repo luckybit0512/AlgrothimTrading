@@ -1,3 +1,2 @@
 ### this is the file for you
-evalrequests
 pyyaml
